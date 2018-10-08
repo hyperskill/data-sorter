@@ -1,5 +1,5 @@
-# Data sorter
+# Sorting tool
 
-Project: Data sorter
+Project: Sorting tool
 
 Go to the src directory, change Main.java and put your .java file(s) in it.
