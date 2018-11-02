@@ -1,5 +1,5 @@
-# Sorting tool
+# Sorting Tool
 
-Project: Sorting tool
+Project: Sorting Tool
 
 Go to the src directory, change Main.java and put your .java file(s) in it.
